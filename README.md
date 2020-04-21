@@ -2,7 +2,7 @@
 
 **Home Page**: [https://dnithin.github.io/Team-Feynman/](https://dnithin.github.io/Team-Feynman/)
 
-**Team Feynman Blog Post 2: April 20th 2020**
+**Team Feynman Blog Post 3: April 20th 2020**
 
 This week we got feedback from a group of students on our game.
 
