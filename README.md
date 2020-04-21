@@ -2,6 +2,17 @@
 
 **Home Page**: [https://dnithin.github.io/Team-Feynman/](https://dnithin.github.io/Team-Feynman/)
 
+**Team Feynman Blog Post 2: April 20th 2020**
+
+This week we got feedback from a group of students on our game.
+
+Andrew worked on implementing suggested changes based on student feedback, as well as fixed bugs and other issues in each scene that was surrounding an issue with a material getting edited or a prefab. He added text to the start and end scene. Andrew also added sounds for during collecting a collectible, music to each level, and he added a win sound for when the final end room has been reached.
+
+Dinakar worked on the suggested changes based on the student feedback,as well as refining his game same.Completed the scripts for the level of the game.Tried to implement shaders and materials for the game.Worked on the prefab issue and completed the final room for the level.
+
+Michael worked on suggested changes as well as fixing bugs that were discovered through testing. He added in the third puzzle to his level and worked out the logic needed to get the puzzles transitions to work correctly.
+
+
 **Team Feynman Blog Post 2: April 13th 2020**
 
 This week we worked on our rooms in each level, for deploying our first build. 
