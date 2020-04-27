@@ -2,6 +2,17 @@
 
 **Home Page**: [https://dnithin.github.io/Team-Feynman/](https://dnithin.github.io/Team-Feynman/)
 
+**Team Feynman Blog Post 4: April 27th 2020**
+
+This was the final week of Classes, so this last week Team Feynman met with Alex to Discuss our game. After this meeting we began to discuss the final changes to our project before turning the project in. We also fixed some bugs that we were having in our game. Our team also created a powerpoint to present to the class during the final exam slot. This presentation includes a description of each of our levels, and more specifically the puzzles in each level so our whole team worked on this.
+
+Andrew spent a lot of time writing up the readme.txt and laying it out for the others to add in their parts. He also fixed some bugs with the missing assets. Andrew pushed a WebGL build, and created a windows build for our final project. Andrew turned in the video as well as the windows build, asset folder, project settings folder, readme.txt for the final project assignment turn in. Andrew tested the webgl build to make sure that it was working as expected for the project.
+
+Michael fixed some bugs in his level. He also recorded the video for our game describing each puzzle. Michael also tested our windows build to make sure that it was working on his windows OS. Michael also contributed to his part in the readme.txt
+
+Dinakar fixed bugs as well as asset issues. Dinakar also spent time pushing a webgl build and testing that build. Dinakar also contributed to his part in the readme.txt
+
+
 **Team Feynman Blog Post 3: April 20th 2020**
 
 This week we got feedback from a group of students on our game.
